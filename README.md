@@ -1,4 +1,4 @@
-# EDE1
+# Energy Data Engineering-1
 Linear and multilinear regression.
 
 ## Predicting the future dates
