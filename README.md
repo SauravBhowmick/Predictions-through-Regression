@@ -2,7 +2,7 @@
 Linear and multilinear regression.
 
 ## Predicting the future dates
-Problem statement: Ananlyse the data and predict the future dates for renewable energy sources.
+Problem statement: Analyse the data and predict the future dates for renewable energy sources.
 
 ## Features:
 ### Data Analysis:
